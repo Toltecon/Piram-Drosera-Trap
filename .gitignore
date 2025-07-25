@@ -1,0 +1,6 @@
+lib/
+out/
+cache/
+*.tsbuildinfo
+.DS_Store
+node_modules/

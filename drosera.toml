@@ -1,0 +1,17 @@
+ethereum_rpc = "https://ethereum-hoodi-rpc.publicnode.com"
+drosera_rpc = "https://relay.hoodi.drosera.io"
+drosera_address = "0x91cB447BaFc6e0EA0F4Fe056F5a9b1F14bb06e5D"
+
+[traps]
+
+[traps.piramtrap]
+path = "./out/PiramTrap.sol/PiramTrap.json"
+response_contract = "0x00DBD98148D0d552aC960B1DB23D2BAcbaD648F5"
+response_function = "transferFrom(address,address,uint256)"
+cooldown_period_blocks = 8
+min_number_of_operators = 1
+max_number_of_operators = 2
+block_sample_size = 2
+private_trap = true
+whitelist = ["0x4a61B89655A5903224A1b82Eec50c320DD899e1c"]
+address = "0xfcf1f51596ae0BC8aeDD1cb5BD2eB46A6a6A5E16"
