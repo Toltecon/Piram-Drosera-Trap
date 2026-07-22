@@ -1,7 +1,7 @@
 # Piram-Drosera-Trap        
 ## О проекте           
   
-Piram-Drosera-Trap — это ловушка на Solidity для проекта Drosera  
+Piram-Drosera-Trap — это ловушка на Solidity для проекта Drosera 
 Она отслеживает баланс токена PIRAM на определённом адресе и срабатывает, если баланс уменьшается более чем на 1 токен.
 
 ---
