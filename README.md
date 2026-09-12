@@ -1,4 +1,4 @@
-# Piram-Drosera-Trapg dscf
+# Piram-Drosera-Trapg
 ## О проекте   
 
 Piram-Drosera-Trap — это ловушка на Solidity для проекта Drosera   
